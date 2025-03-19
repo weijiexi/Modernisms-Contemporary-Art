@@ -165,5 +165,34 @@ shift modernism’s directions or fill in some of its gaps?
         - Mark Rothko – Floating rectangular forms of color
         - Barnett Newman – “Zips” (thin color stripes in vast fields)
         - Clyfford Still – Thick, irregular color fields     
-
-
+- #### Op Art (Optical Abstraction)
+    - Uses patterns, lines, and contrast to create optical illusions
+    - Dynamic, kinetic, and visually stimulating
+    - Relies on the viewer’s perception
+        - Bridget Riley – Black & white optical illusions
+        - Victor Vasarely – Geometric color-based illusions
+        - Jesús Rafael Soto – Interactive, kinetic abstraction
+- #### Biomorphic Abstraction
+    - Inspired by natural forms, biology, and organic shapes
+    - Soft, fluid, and sometimes surreal
+    - Often dreamlike or spiritual
+        - Jean Arp – Smooth, flowing organic forms
+        - Henry Moore – Abstract, curvilinear sculptures
+        - Yves Tanguy – Surrealist-inspired biomorphic abstraction
+- #### Digital & AI-Generated Abstraction
+    - Uses algorithms, neural networks, and generative systems
+    - Can be interactive, data-driven, or self-evolving
+    - Often inspired by mathematical structures, nature, and randomness
+        - Refik Anadol – AI-driven abstract landscapes
+        - Mario Klingemann (Quasimondo) – GAN-based art
+        - Tyler Hobbs (Fidenza, Art Blocks) – NFT generative abstraction
+    - 🔹 Modern Influence: Seen in NFTs, immersive installations, and AI-assisted painting tools.
+- #### Abstract Art Today: Where It’s Heading
+✅ NFT & Web3 Art – Digital artists use blockchain & AI to create interactive abstract works.
+✅ Motion & Interactive Abstraction – Found in AR/VR art, generative animations, and immersive exhibitions.
+✅ Hybrid Media – Artists mix painting, AI, and data visualization to create new forms of abstraction.
+- #### Ready to Create Abstract Art?
+1️⃣ Choose a Style – Geometric, gestural, color-based, etc.
+2️⃣ Pick a Medium – Digital painting, coding (p5.js, Processing), AI tools.
+3️⃣ Experiment with AI & Algorithms – Explore GANs, StyleGAN, or generative design.
+4️⃣ Play with Colors & Textures – Inspired by Kandinsky, Rothko, or Op Art?
