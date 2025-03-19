@@ -117,6 +117,7 @@ this history of modernism or in what follows it?
 ideas, forms where you feel you could insert yourself or intervene to
 shift modernism’s directions or fill in some of its gaps?
 
+### modern art movement
 - Impressionism
 - Expressionism
 - Fauvism
