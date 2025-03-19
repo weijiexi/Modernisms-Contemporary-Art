@@ -187,11 +187,11 @@ shift modernism’s directions or fill in some of its gaps?
         - Mario Klingemann (Quasimondo) – GAN-based art
         - Tyler Hobbs (Fidenza, Art Blocks) – NFT generative abstraction
     - 🔹 Modern Influence: Seen in NFTs, immersive installations, and AI-assisted painting tools.
-- #### Abstract Art Today: Where It’s Heading
+#### Abstract Art Today: Where It’s Heading
     - NFT & Web3 Art – Digital artists use blockchain & AI to create interactive abstract works.
     - Motion & Interactive Abstraction – Found in AR/VR art, generative animations, and immersive exhibitions.
     - Hybrid Media – Artists mix painting, AI, and data visualization to create new forms of abstraction.
-- #### Ready to Create Abstract Art?
+#### Ready to Create Abstract Art?
     - 1️⃣ Choose a Style – Geometric, gestural, color-based, etc.
     - 2️⃣ Pick a Medium – Digital painting, coding (p5.js, Processing), AI tools.
     - 3️⃣ Experiment with AI & Algorithms – Explore GANs, StyleGAN, or generative design.
