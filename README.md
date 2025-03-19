@@ -138,12 +138,12 @@ shift modernism’s directions or fill in some of its gaps?
         - Constructivism – El Lissitzky, Naum Gabo
         - Minimalism – Frank Stella, Donald Judd
 - #### Abstract Expressionism
-    - Expressive, free-flowing compositions
-    - Less geometric, more organic and poetic
-    - Often inspired by music, poetry, and emotion
-        - Wassily Kandinsky – Improvisation Series (linked sound & color)
-        - Joan Miró – Dreamlike, playful abstraction
-        - Hans Hartung – Gestural, energetic brushstrokes
+    - Large, dynamic brushstrokes and emotional intensity
+    - Spontaneous and gestural techniques
+    - Often conveys the artist’s subconscious or raw emotion
+        - Action Painting – Jackson Pollock (drip technique), Franz Kline
+        - Color Field Painting – Mark Rothko (large color fields), Barnett Newman
+        - Gestural Abstraction – Willem de Koonings
 - #### Lyrical Abstraction
     - Expressive, free-flowing compositions
     - Less geometric, more organic and poetic
