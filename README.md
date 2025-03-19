@@ -127,17 +127,16 @@ shift modernism’s directions or fill in some of its gaps?
 - Surrealism 
 - Suprematism
 - Dadaism
-- #### Abstraction
-    - Cubism
-    - Constructivism
-    - Futurism
-    - De Stijl
-    - Bauhaus
-    - Minimalism
-    - Orphism
-    - Abstract Expressionism
-    - Color Field Painting
-    - Op Art (Optical Art)
-    - Digital & Generative Art
+- Abstraction
+#### Styles in Abstract Art: Key Movements & Aesthetics
+- Geometric Abstraction
+    - Emphasizes geometric shapes (circles, squares, grids)
+    - Focuses on harmony, balance, and structure
+    - Often mathematical, logical, or architectonic
+        - De Stijl (Neoplasticism) – Piet Mondrian, Theo van Doesburg
+        - Suprematism – Kazimir Malevich (e.g., Black Square)
+        - Constructivism – El Lissitzky, Naum Gabo
+        - Minimalism – Frank Stella, Donald Judd
+            
 
 
