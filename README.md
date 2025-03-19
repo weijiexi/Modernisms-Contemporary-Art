@@ -128,8 +128,8 @@ shift modernism’s directions or fill in some of its gaps?
 - Suprematism
 - Dadaism
 - Abstraction
-#### Styles in Abstract Art: Key Movements & Aesthetics
-- Geometric Abstraction
+### Styles in Abstract Art: Key Movements & Aesthetics
+- #### Geometric Abstraction
     - Emphasizes geometric shapes (circles, squares, grids)
     - Focuses on harmony, balance, and structure
     - Often mathematical, logical, or architectonic
