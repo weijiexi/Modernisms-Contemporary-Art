@@ -158,6 +158,12 @@ shift modernism’s directions or fill in some of its gaps?
         - Ellsworth Kelly – Minimalist color blocks
         - Frank Stella – Precise geometric forms
         - Josef Albers – Homage to the Square (color interaction studies)
-          
+- #### Color Field Painting 
+    - Large areas of flat, expressive color
+    - Meant to evoke emotion rather than depict objects
+    - Focuses on color relationships and psychological effects
+        - Mark Rothko – Floating rectangular forms of color
+        - Barnett Newman – “Zips” (thin color stripes in vast fields)
+        - Clyfford Still – Thick, irregular color fields     
 
 
