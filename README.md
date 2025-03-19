@@ -144,7 +144,20 @@ shift modernism’s directions or fill in some of its gaps?
         - Wassily Kandinsky – Improvisation Series (linked sound & color)
         - Joan Miró – Dreamlike, playful abstraction
         - Hans Hartung – Gestural, energetic brushstrokes
-
+- #### Lyrical Abstraction
+    - Expressive, free-flowing compositions
+    - Less geometric, more organic and poetic
+    - Often inspired by music, poetry, and emotion
+        - Wassily Kandinsky – Improvisation Series (linked sound & color)
+        - Joan Miró – Dreamlike, playful abstraction
+        - Hans Hartung – Gestural, energetic brushstrokes
+- #### Hard-Edge Abstraction
+    - Sharp, clean edges, with distinct color fields
+    - Often uses color contrast and flat surfaces
+    - Avoids expressive brushwork
+        - Ellsworth Kelly – Minimalist color blocks
+        - Frank Stella – Precise geometric forms
+        - Josef Albers – Homage to the Square (color interaction studies)
           
 
 
