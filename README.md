@@ -75,3 +75,44 @@ one thing replaces another.
 - Art transcends time
 - Art is good for us
 - All these ideas get challenged from within modernism itself
+### Lecture 7 New York Modernism
+#### D.T. SUZUKI (1870–1966), writes Richard M. Jaffe, was “one of the most culturally influential Asians - In a seven-decade globe-trotting career, Suzuki almost single-handedly introduced Zen to the West while promoting the preservation of Buddhism in Asia.
+- He became the world’s foremost authority on the subject, the most
+identifiable representative of Japanese culture, and even a spokesperson for Asians generally in the Western, white maledominated world of intellectuals.
+- Then in 1956, pocket-sized paperback editions of his Englishlanguage writings brought the 86-year-old Suzuki celebrity status.
+- With Martin Heidegger, Carl Jung, John Cage, and the Beats among the countless artists, scholars, and seekers who admired him, Suzuki had a huge impact on 20th-century global thought.
+#### A decade after World War II, a new culture was emerging, one in which waves of products targeted at a growing class of consumers were advertised on TV, in magazines and newspapers, and on larger-than-life billboards.
+- Artists around the world were inspired by this explosion of mass media and began to
+use it as source material, repurposing commercial images and depicting familiar
+subjects, from everyday objects to the stars and stories that populated the front page.
+- Yet there was no single approach: artists both celebrated and criticized the era’s surge
+of consumerism.
+- In 1957, the British artist Richard Hamilton tried to summarize these new tendencies
+by coining the term “Pop Art,” describing it to friends as “Popular (designed for a mass
+audience), Transient (short-term solution), Expendable (easily forgotten), Low cost,
+Mass produced, Young (aimed at youth), Witty, Sexy, Gimmicky, Glamorous, Big
+Business.”
+#### Post WWII:
+- Migration:
+   - Political, economic, and war refugees; Jewish diaspora; Artists and
+intellectuals
+   - Continuing migration from the US South
+- Growth of industry and consumerism
+- New social relations:
+   - Embracing consumerism; Rejecting consumerism
+   - Civil Rights
+   - 1965 Immigration and Nationality Act (removing some legal discriminations)
+   - Black Power (eg Black Panther Party, Oakland, 1966)
+   - Chicano Movement (, 1940s + 1960s-70s
+   - American Indian Movement, Minneapolis, 1968)
+   - Asian American movement (eg. Asian American Political Alliance, Berkeley,1968)
+   - The Beats; Hippies
+   - 2 nd-wave Feminism (1960s to 1980s)
+   - 1969, Stonewall, Gay Liberation Front (named in reference to the Algerian
+National Liberation Front, and the Vietnamese National Liberation Front.
+##### PROMPTS
+- Where do you see yourself, your history, experience, ideas, and work in
+this history of modernism or in what follows it?
+- If you don’t see yourself within it as so far described, are there points,
+ideas, forms where you feel you could insert yourself or intervene to
+shift modernism’s directions or fill in some of its gaps?
