@@ -110,13 +110,6 @@ intellectuals
    - 2 nd-wave Feminism (1960s to 1980s)
    - 1969, Stonewall, Gay Liberation Front (named in reference to the Algerian
 National Liberation Front, and the Vietnamese National Liberation Front.
-##### PROMPTS
-- Where do you see yourself, your history, experience, ideas, and work in
-this history of modernism or in what follows it?
-- If you don’t see yourself within it as so far described, are there points,
-ideas, forms where you feel you could insert yourself or intervene to
-shift modernism’s directions or fill in some of its gaps?
-
 ### Modern art movement
 - Impressionism
 - Expressionism
@@ -203,3 +196,9 @@ shift modernism’s directions or fill in some of its gaps?
 - 2️⃣ Pick a Medium – Digital painting, coding (p5.js, Processing), AI tools.
 - 3️⃣ Experiment with AI & Algorithms – Explore GANs, StyleGAN, or generative design.
 - 4️⃣ Play with Colors & Textures – Inspired by Kandinsky, Rothko, or Op Art?
+#### PROMPTS
+- Where do you see yourself, your history, experience, ideas, and work in
+this history of modernism or in what follows it?
+- If you don’t see yourself within it as so far described, are there points,
+ideas, forms where you feel you could insert yourself or intervene to
+shift modernism’s directions or fill in some of its gaps?
