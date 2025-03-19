@@ -1,5 +1,5 @@
 # Modernisms
-## European modernism: 1860s – 1960s
+## European modernism: After 1860s
 - Industrialization:
 - First Industrial Revolution: 1760s
 - Second Industrial Revolution: 1850s
