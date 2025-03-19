@@ -137,6 +137,7 @@ shift modernism’s directions or fill in some of its gaps?
         - Suprematism – Kazimir Malevich (e.g., Black Square)
         - Constructivism – El Lissitzky, Naum Gabo
         - Minimalism – Frank Stella, Donald Judd
+    - 🔹 Modern Influence: Used in UI design, branding, and generative digital art.
 - #### Abstract Expressionism
     - Large, dynamic brushstrokes and emotional intensity
     - Spontaneous and gestural techniques
@@ -144,6 +145,7 @@ shift modernism’s directions or fill in some of its gaps?
         - Action Painting – Jackson Pollock (drip technique), Franz Kline
         - Color Field Painting – Mark Rothko (large color fields), Barnett Newman
         - Gestural Abstraction – Willem de Koonings
+    - 🔹 Modern Influence: Seen in AI-generated expressive art & motion design.
 - #### Lyrical Abstraction
     - Expressive, free-flowing compositions
     - Less geometric, more organic and poetic
@@ -151,6 +153,7 @@ shift modernism’s directions or fill in some of its gaps?
         - Wassily Kandinsky – Improvisation Series (linked sound & color)
         - Joan Miró – Dreamlike, playful abstraction
         - Hans Hartung – Gestural, energetic brushstrokes
+    - 🔹 Modern Influence: Found in psychedelic digital art, animated visuals, and AI art tools.
 - #### Hard-Edge Abstraction
     - Sharp, clean edges, with distinct color fields
     - Often uses color contrast and flat surfaces
@@ -158,13 +161,15 @@ shift modernism’s directions or fill in some of its gaps?
         - Ellsworth Kelly – Minimalist color blocks
         - Frank Stella – Precise geometric forms
         - Josef Albers – Homage to the Square (color interaction studies)
+    - 🔹 Modern Influence: Found in graphic design, flat UI, and contemporary murals.
 - #### Color Field Painting 
     - Large areas of flat, expressive color
     - Meant to evoke emotion rather than depict objects
     - Focuses on color relationships and psychological effects
         - Mark Rothko – Floating rectangular forms of color
         - Barnett Newman – “Zips” (thin color stripes in vast fields)
-        - Clyfford Still – Thick, irregular color fields     
+        - Clyfford Still – Thick, irregular color fields
+    - 🔹 Modern Influence: Used in contemporary art installations, UI gradients, and immersive VR experiences.    
 - #### Op Art (Optical Abstraction)
     - Uses patterns, lines, and contrast to create optical illusions
     - Dynamic, kinetic, and visually stimulating
@@ -172,6 +177,7 @@ shift modernism’s directions or fill in some of its gaps?
         - Bridget Riley – Black & white optical illusions
         - Victor Vasarely – Geometric color-based illusions
         - Jesús Rafael Soto – Interactive, kinetic abstraction
+    - 🔹 Modern Influence: Found in motion graphics, digital installations, and Web3 generative art.
 - #### Biomorphic Abstraction
     - Inspired by natural forms, biology, and organic shapes
     - Soft, fluid, and sometimes surreal
@@ -179,6 +185,7 @@ shift modernism’s directions or fill in some of its gaps?
         - Jean Arp – Smooth, flowing organic forms
         - Henry Moore – Abstract, curvilinear sculptures
         - Yves Tanguy – Surrealist-inspired biomorphic abstraction
+    - 🔹 Modern Influence: Seen in generative 3D art, AI morphing visuals, and bio-design concepts.
 - #### Digital & AI-Generated Abstraction
     - Uses algorithms, neural networks, and generative systems
     - Can be interactive, data-driven, or self-evolving
