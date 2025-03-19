@@ -116,3 +116,22 @@ this history of modernism or in what follows it?
 - If you don’t see yourself within it as so far described, are there points,
 ideas, forms where you feel you could insert yourself or intervene to
 shift modernism’s directions or fill in some of its gaps?
+
+- Impressionism
+- Expressionism
+- Fauvism
+- Orientalism
+- Primitivism
+- Cubism
+- Metaphysical landscapes
+- Surrealism 
+- Suprematism
+- Constructivism
+- Futurism
+- De Stijl
+- Bauhaus
+- Minimalism
+- Abstraction
+    - Orphism
+
+
