@@ -75,7 +75,7 @@ one thing replaces another.
 - Art transcends time
 - Art is good for us
 - All these ideas get challenged from within modernism itself
-### Lecture 7 New York Modernism
+### New York Modernism
 #### D.T. SUZUKI (1870–1966), writes Richard M. Jaffe, was “one of the most culturally influential Asians - In a seven-decade globe-trotting career, Suzuki almost single-handedly introduced Zen to the West while promoting the preservation of Buddhism in Asia.
 - He became the world’s foremost authority on the subject, the most
 identifiable representative of Japanese culture, and even a spokesperson for Asians generally in the Western, white maledominated world of intellectuals.
