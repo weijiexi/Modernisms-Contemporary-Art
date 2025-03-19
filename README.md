@@ -133,9 +133,9 @@ National Liberation Front, and the Vietnamese National Liberation Front.
         - Constructivism – El Lissitzky, Naum Gabo
         - Minimalism – Frank Stella, Donald Judd
         - Bauhaus
-            - Early Bauhaus - 1919-1925	Weimar, Germany	Walter Gropius
-            - Middle Bauhaus - 1925-1932 Dessau, Germany	Hannes Meyer
-            - Late Bauhaus - 1932-1933 Berlin, Germany	Ludwig Mies van der Rohe
+            - Early Bauhaus(1919-1925) - Weimar, Germany Walter Gropius
+            - Middle Bauhaus(1925-1932) - Dessau, Germany Hannes Meyer
+            - Late Bauhaus(1932-1933) - Berlin, Germany	Ludwig Mies van der Rohe
     - 🔹 Modern Influence: Used in UI design, branding, and generative digital art.
 - #### Abstract Expressionism
     - Large, dynamic brushstrokes and emotional intensity
