@@ -137,6 +137,14 @@ shift modernism’s directions or fill in some of its gaps?
         - Suprematism – Kazimir Malevich (e.g., Black Square)
         - Constructivism – El Lissitzky, Naum Gabo
         - Minimalism – Frank Stella, Donald Judd
-            
+- #### Abstract Expressionism
+    - Expressive, free-flowing compositions
+    - Less geometric, more organic and poetic
+    - Often inspired by music, poetry, and emotion
+        - Wassily Kandinsky – Improvisation Series (linked sound & color)
+        - Joan Miró – Dreamlike, playful abstraction
+        - Hans Hartung – Gestural, energetic brushstrokes
+
+          
 
 
