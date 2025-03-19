@@ -117,22 +117,27 @@ this history of modernism or in what follows it?
 ideas, forms where you feel you could insert yourself or intervene to
 shift modernism’s directions or fill in some of its gaps?
 
-### modern art movement
+### Modern art movement
 - Impressionism
 - Expressionism
 - Fauvism
 - Orientalism
 - Primitivism
-- Cubism
 - Metaphysical landscapes
 - Surrealism 
 - Suprematism
-- Constructivism
-- Futurism
-- De Stijl
-- Bauhaus
-- Minimalism
-- Abstraction
+- Dadaism
+- #### Abstraction
+    - Cubism
+    - Constructivism
+    - Futurism
+    - De Stijl
+    - Bauhaus
+    - Minimalism
     - Orphism
+    - Abstract Expressionism
+    - Color Field Painting
+    - Op Art (Optical Art)
+    - Digital & Generative Art
 
 
