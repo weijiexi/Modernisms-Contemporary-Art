@@ -1,1 +1,2 @@
 # Geometric Abstraction - Orphism
+Orphism in the context of Paris from 1910 to 1930 refers to an avant-garde movement in visual art, particularly in painting, that emerged as a branch of Cubism. Robert and Sonia Delaunay were the leaders of this movement, with other artists such as František Kupka and Jean Metzinger also associated with Orphism. The movement was a reaction to the fragmentation of form in Cubism, and instead, ```it explored how colors could suggest movement, rhythm, and life itself.```
