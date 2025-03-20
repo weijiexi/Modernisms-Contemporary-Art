@@ -5,4 +5,5 @@ Orphism in the context of Paris from 1910 to 1930 refers to an avant-garde movem
 - Interest in Light: One of the central ideas behind Orphism was the exploration of light and color's interplay, with artists striving to depict the energy and dynamism of the modern world. They were influenced by the new technological advancements and the industrial environment of the time, which gave rise to new ideas of speed and motion.
 - Centrifugal Force and Rhythmic Forms: The works in Orphism often included circular forms and motifs meant to suggest motion and vibration, often resembling the dynamic, energetic quality of modern life (like cars, trains, or cityscapes).
 ![Windows of Paris](./Circular-Forms.jpg "Windows of Paris")
+Circular Forms, 1930 - Robert Delaunay
 ![Windows of Paris](./Windows-of-Paris.jpg "Windows of Paris")
