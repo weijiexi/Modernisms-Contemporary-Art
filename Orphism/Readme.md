@@ -11,9 +11,9 @@ Orphism in the context of Paris from 1910 to 1930 refers to an avant-garde movem
 - Layout in a rotating or wavy manner simulates the changes of light on different surfaces and spaces
 - Transparent color stacking effects show different intensities and textures of light
 - Color segmentation and fragmentation effects simulate the constant change, jumping, and fission of light, creating a dynamic visual experience
-### Circular Forms Robert Delaunay
+### Circular Forms | Robert Delaunay
 ![Circular-Forms](./Circular-Forms.jpg "Circular-Forms")
-### Windows of Paris Robert Delaunay
+### Windows of Paris | Robert Delaunay
 ![Windows of Paris](./Windows-of-Paris.jpg "Windows of Paris")
 
 
