@@ -1,5 +1,4 @@
-# Bauhaus
-[Bauhaus](https://github.com "Bauhaus")
+# [Bauhaus](https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/ "Bauhaus")
 ## Early Bauhaus(1919-1925) 
 Weimar, Germany Walter Gropius
 ## Middle Bauhaus(1925-1932) 
