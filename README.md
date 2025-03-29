@@ -204,10 +204,10 @@ National Liberation Front, and the Vietnamese National Liberation Front.
 - Motion & Interactive Abstraction – Found in AR/VR art, generative animations, and immersive exhibitions.
 - Hybrid Media – Artists mix painting, AI, and data visualization to create new forms of abstraction.
 #### Ready to Create Abstract Art?
-- 1️⃣ Choose a Style – Geometric, gestural, color-based, etc.
-- 2️⃣ Pick a Medium – Digital painting, coding (p5.js, Processing), AI tools.
-- 3️⃣ Experiment with AI & Algorithms – Explore GANs, StyleGAN, or generative design.
-- 4️⃣ Play with Colors & Textures – Inspired by Kandinsky, Rothko, or Op Art?
+- Choose a Style – Geometric, gestural, color-based, etc.
+- Pick a Medium – Digital painting, coding (p5.js, Processing), AI tools.
+- Experiment with AI & Algorithms – Explore GANs, StyleGAN, or generative design.
+- Play with Colors & Textures – Inspired by Kandinsky, Rothko, or Op Art?
 #### PROMPTS
 - Where do you see yourself, your history, experience, ideas, and work in
 this history of modernism or in what follows it?
