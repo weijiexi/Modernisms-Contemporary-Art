@@ -11,3 +11,9 @@ His work continues to be admired for its playfulness, its emotional depth, and i
 ### Connection to Catalonia
 > Miró’s roots in Catalonia were deeply important to his artistic identity. ```The Catalan culture,```with its folklore, history, and architecture, influenced his work, and he often drew inspiration from its rich traditions.
 > His landscapes and iconography reflect a connection to the Catalonian countryside, where he spent much of his childhood.
+
+![Circular-Forms](./imags/joan-miro-1.jpg "Circular-Forms")
+Joan Miró, L'Invitée du Dimanche I (Sunday Guest I), 1969
+- The work features a blend of geometric shapes, fluid lines, and organic forms that seem to float on the canvas, giving the painting a dreamlike, ethereal quality.
+- Figures or faces, typical of Miró’s art, These forms are simplified, organic shapes that play with the idea of representation without being fully literal.
+- The title, "Sunday Guest," might allude to a figure or entity that is transient, present only in a fleeting moment, much like a guest on a Sunday afternoon—an image that brings together personal and universal themes of hospitality, mystery, and transient presence.
