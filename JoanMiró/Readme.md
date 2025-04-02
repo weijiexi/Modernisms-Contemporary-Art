@@ -1,2 +1,5 @@
 # JoanMiró
 Joan Miró (1893–1983) was a Catalan Spanish painter, sculptor. His work is often associated with Surrealism, although Miró himself distanced his style from any particular movement, embracing a highly individualistic approach that combined elements of abstraction, fantasy, and childlike imagination.
+### Surrealism and Abstract Expressionism
+> Miró’s work was deeply influenced by Surrealism, particularly the works of André Breton and Max Ernst, though he also infused his art with his own distinctive approach. His work is known for its emphasis on subconscious expression, using forms and shapes that evoke mystery, dreamlike imagery, and emotional depth.
+> His later work evolved into abstract expressionism, where color, form, and composition became even more important than any subject matter.
