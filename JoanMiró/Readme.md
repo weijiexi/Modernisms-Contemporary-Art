@@ -1,4 +1,4 @@
-# Joan Miró
+# [Joan Miró](https://www.joan-miro.net/)
 Joan Miró (1893–1983) was a Catalan Spanish painter, sculptor. His work is often associated with Surrealism, although Miró himself distanced his style from any particular movement, embracing a highly individualistic approach that combined elements of abstraction, fantasy, and childlike imagination.
 
 His work continues to be admired for its playfulness, its emotional depth, and its embrace of primitive symbolism, balancing between the spontaneous and the carefully constructed. Joan Miró's work is celebrated for its imaginative qualities, innovative use of color and form, and deep connection to the subconscious and childhood innocence. His influence is seen across multiple disciplines, particularly in abstract art, graphic design, and sculpture.
