@@ -28,6 +28,7 @@ Joan Miró, L'Invitée du Dimanche I (Sunday Guest I), 1969
 
 ![the-red-disk](./imags/the-red-disk.jpg "the-red-disk")
 
+The Red Disk, 1960 by Joan Miro
+
 Set against a dark blue, almost black surface, a white splotch of paint has been hurled out impulsively, and loses itself in innumerable spots and spatters, a cosmic gesture thrust against the empty void of nothingness - almost a metaphor of the artist's creative activity. Some spots of colour flare up among this galaxy of creativity, of which the largest and most irregular is the red one which gave the painting its title. Minute symbols are scattered around the edges of the entire constellation - stars of hair and little hooks which give this action painting a new poetic dimension and connect it unmistakably with Miro's world of symbols.
 
-The Red Disk, 1960 by Joan Miro
