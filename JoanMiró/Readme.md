@@ -31,4 +31,7 @@ Joan Miró, L'Invitée du Dimanche I (Sunday Guest I), 1969
 The Red Disk, 1960 by Joan Miro
 
 Set against a dark blue, almost black surface, a white splotch of paint has been hurled out impulsively, and loses itself in innumerable spots and spatters, a cosmic gesture thrust against the empty void of nothingness - almost a metaphor of the artist's creative activity. Some spots of colour flare up among this galaxy of creativity, of which the largest and most irregular is the red one which gave the painting its title. Minute symbols are scattered around the edges of the entire constellation - stars of hair and little hooks which give this action painting a new poetic dimension and connect it unmistakably with Miro's world of symbols.
+#### Bold Use of Color
+The central feature of the painting is the large, vibrant red disk, which dominates the canvas. The red color is bold and saturated, drawing the viewer’s eye immediately. This choice of color is significant as red in Miró's works often symbolizes vitality, energy, and passion.
+```The red disk contrasts sharply with the rest of the composition, which is more minimalistic and uses shades of black, blue, and yellow, creating a striking visual impact.```
 
