@@ -4,7 +4,7 @@ Joan Miró (1893–1983) was a Catalan Spanish painter, sculptor. His work is of
 His work continues to be admired for its playfulness, its emotional depth, and its embrace of primitive symbolism, balancing between the spontaneous and the carefully constructed. Joan Miró's work is celebrated for its imaginative qualities, innovative use of color and form, and deep connection to the subconscious and childhood innocence. His influence is seen across multiple disciplines, particularly in abstract art, graphic design, and sculpture.
 
 Joan Miró's artistic career cannot be confined to a single movement, as his work evolved over time and incorporated multiple influences. However, the most significant movements and styles he is associated with are:
-### Miró’s work, rich in symbolism, abstraction, and emotion
+#### Miró’s work, rich in symbolism, abstraction, and emotion
 > Surrealism (especially in his earlier work)
 
 > Abstract Art and Abstract Expressionism (especially in his later work)
