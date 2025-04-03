@@ -5,11 +5,11 @@ His work continues to be admired for its playfulness, its emotional depth, and i
 
 Joan Miró's artistic career cannot be confined to a single movement, as his work evolved over time and incorporated multiple influences. However, the most significant movements and styles he is associated with are:
 ##### Miró’s work, rich in symbolism, abstraction, and emotion
-    > Surrealism (especially in his earlier work)
+> Surrealism (especially in his earlier work)
 
-    > Abstract Art and Abstract Expressionism (especially in his later work)
+> Abstract Art and Abstract Expressionism (especially in his later work)
 
-    > Catalan Modernism and Folk Art influences
+> Catalan Modernism and Folk Art influences
 ### Surrealism and Abstract Expressionism
 > Miró’s work was deeply influenced by Surrealism, particularly the works of André Breton and Max Ernst, though he also infused his art with his own distinctive approach. His work is known for its emphasis on subconscious expression, using forms and shapes that evoke mystery, dreamlike imagery, and emotional depth.
 > His later work evolved into abstract expressionism, where color, form, and composition became even more important than any subject matter.
