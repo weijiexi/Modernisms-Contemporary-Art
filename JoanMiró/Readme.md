@@ -68,3 +68,8 @@ Joan Miró, Ceramiques, 1974
 - The Human Figure - While the figures in these works are highly abstracted, Miró often referred to human forms, especially feminine figures or facial features. This theme is recurring in his work, reflecting his interest in the human experience and the psyche.
 
 ![obra_de](./imags/obra_de.jpg "obra_de")
+
+
+![joan-miro](./imags/joan-miro-3.jpg "joan-miro")
+![joan-miro](./imags/joan-miro-4.jpg "joan-miro")
+![joan-miro](./imags/joan-miro-5.jpg "joan-miro")
