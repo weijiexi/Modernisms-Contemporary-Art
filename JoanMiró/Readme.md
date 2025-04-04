@@ -70,6 +70,5 @@ Joan Miró, Ceramiques, 1974
 ![obra_de](./imags/obra_de.jpg "obra_de")
 
 
-![joan-miro](./imags/joan-miro-3.jpg "joan-miro")
-![joan-miro](./imags/joan-miro-4.jpg "joan-miro")
+![joan-miro](./imags/joan-miro-3.jpg "joan-miro")![joan-miro](./imags/joan-miro-4.jpg "joan-miro")
 ![joan-miro](./imags/joan-miro-5.jpg "joan-miro")
