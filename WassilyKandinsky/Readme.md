@@ -1,1 +1,1 @@
-# Wassily Kandinsky
+# [Wassily Kandinsky](https://www.wassilykandinsky.net/)
