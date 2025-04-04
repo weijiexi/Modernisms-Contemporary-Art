@@ -59,3 +59,8 @@ At the beginning of the 1960s artists took fresh pleasure in experimenting with 
 - The sun in the title is depicted through circular and radiating forms, symbolizing energy, warmth, and perhaps the radiance of childhood.
 - Color and Energy - Bright, primary colors like yellow, red, and blue dominate the canvas, creating a sense of vitality and cheerfulness. The use of vibrant color helps convey the energy of the sun and the joyful, carefree spirit of a child.The sun is often a motif in Miró’s work, representing not just a celestial body, but a symbol of life, power, and universal energy. In this painting, the sun serves as a visual anchor that ties the composition together.
 - Playful Composition - The composition feels free-flowing, almost as if it’s in motion, with the forms dancing around the central sun figure. The asymmetry and seemingly random arrangement of elements contribute to a sense of unpredictability, mirroring the spontaneity and unpredictability of childhood joy.
+
+![ceramiques](./imags/ceramiques.jpg "ceramiques")
+
+Joan Miró, Ceramiques, 1974
+
