@@ -66,3 +66,5 @@ Joan Miró, Ceramiques, 1974
 
 - Organic and Playful Composition - The forms in "Ceramiques" are often organic and fluid, not bound by rigid geometric constraints. They seem to echo natural forms like faces, birds, or animals, but are still abstracted and simplified. The irregularity of the pieces also conveys a sense of play and experimentation, allowing for multiple interpretations and emotional responses.
 - The Human Figure - While the figures in these works are highly abstracted, Miró often referred to human forms, especially feminine figures or facial features. This theme is recurring in his work, reflecting his interest in the human experience and the psyche.
+
+![obra_de](./imags/obra_de.jpg "obra_de")
