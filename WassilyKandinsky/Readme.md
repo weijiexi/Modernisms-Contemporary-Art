@@ -3,8 +3,8 @@
 Abstract art requires artists to break free from traditional figurative expressions and break through the constraints of reality to convey emotions, ideas and concepts in a freer and more innovative way. 
 
 Abstract art does not rely on images in the real world, but expresses emotions and ideas through elements such as shape, color, line and texture.
-#### Visualize complex information and express it in an easy-to-understand way
-#### Invisible things become perceptible graphics and interactive elements
+### Visualize complex information and express it in an easy-to-understand way
+### Invisible things become perceptible graphics and interactive elements
 - Real-world objects, concepts or emotions are transformed into non-figurative, visual forms
 
   That is, invisible things become perceptible graphics
