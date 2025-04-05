@@ -14,6 +14,12 @@ Abstract art does not rely on images in the real world, but expresses emotions a
     - Symbolization: symbols or shapes replace specific things in reality
     - Emotions and energy: colors, shapes, dynamic lines express inner emotions
     - Visual metaphor: visual images are used to metaphorically represent invisible concepts
+- Balance between concrete and abstract
+    - Simplified form - Concrete forms are gradually simplified into geometric shapes or curves, retaining key visual features
+    - Structure and deconstruction - Real objects are processed geometrically or fragmented, retaining a certain structural logic,making them recognizable and artistically processed
+    - Color and emotion - The form tends to be abstract, using familiar colors or light and dark contrasts,allowing the audience to establish a connection with the real world in the subconscious
+    - Partial concrete & overall abstract - The overall tendency is abstract, and the local concrete elements provide clues for interpretation
+    - Movement & dynamic change - In interaction or animation, dynamic gradient,let the concrete elements gradually transform into abstract forms
 - ### Simplification
 Abstract art often reduces forms to their essence. It removes details and focuses on the basic shapes, colors, or lines that represent a subject—or sometimes, no subject at all.
 
