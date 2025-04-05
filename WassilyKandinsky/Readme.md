@@ -1,5 +1,6 @@
 # [Wassily Kandinsky](https://www.wassilykandinsky.net/)
-## principles of abstract art 
+## Principles of abstract art 
+> Abstract art requires artists to break free from traditional figurative expressions and break through the constraints of reality to convey emotions, ideas and concepts in a freer and more innovative way. Abstract art does not rely on images in the real world, but expresses emotions and ideas through elements such as shape, color, line and texture.
 - ### Simplification
 Abstract art often reduces forms to their essence. It removes details and focuses on the basic shapes, colors, or lines that represent a subject—or sometimes, no subject at all.
 
