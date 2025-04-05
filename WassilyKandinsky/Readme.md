@@ -66,3 +66,7 @@ Many abstract works evolve during the making process, rather than being fully pl
 Some abstract artists are influenced by spirituality, philosophy, psychology, or even math and science. They use abstraction to go beyond the surface of things.
 
 Example: Kandinsky believed colors and shapes could create a kind of visual music that touches the soul.
+
+![Improvisation-Deluge](./Improvisation-Deluge.jpg "Improvisation-Deluge")
+
+Improvisation. Deluge 1913 Oil on canvas 37.4 × 59.1" 
