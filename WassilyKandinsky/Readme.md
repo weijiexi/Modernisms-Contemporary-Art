@@ -141,10 +141,7 @@ This piece predicts his Bauhaus period (starting in 1922), where his art would b
 
 ✨ In Summary
 "Untitled (1916)" is:
-
-A bridge between emotional and conceptual abstraction
-
-A quiet, refined study of spiritual symbols and balance
-
-Less about chaos, more about inner calm, searching, and structure
+- A bridge between emotional and conceptual abstraction
+- A quiet, refined study of spiritual symbols and balance
+- Less about chaos, more about inner calm, searching, and structure
 
