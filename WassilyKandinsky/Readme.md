@@ -104,6 +104,14 @@ Revelation
 
 ![Untitled](./Untitled.jpg "Untitled")
 
-Untitled, 1916, Watercolor, gouache and crayon on paper
+Title: Untitled (c.1916)
+Artist: Wassily Kandinsky
+
+Medium: Likely watercolor, gouache, and pencil on paper (common for his sketches during this time)
+
+Style: Abstract / Geometric abstraction
+
+Period: Transitional—between early improvisations and his later Bauhaus style
 
 The refined balance between the colour and form in the Untitled holds the visual power of his Munich period (for example, refer to Composinion No. 7) but also comprises some new liveliness and a sense of compositional unity. It is a whirlpool of colour that underlies it, bursting with its sparkling yellow and blue and accentuated with thin black lines. Paul Overoy wrote: “Those several works he created show an unceasing evolution, some progressive reconsidering in colour. In the works painted in Russia geometrical shapes arise from gradual simplification of the amorphous shapes typical of Munich period paintings [...]. Painting elements seem to be in a state of tension; on the one hand, they show a way to geometricity, and on the other – that to spontaneous bursting forms of his Munich works.”
+
