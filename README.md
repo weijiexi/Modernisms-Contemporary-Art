@@ -66,7 +66,7 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 - #### An emphasis on progress and linear development (one thing leads to or causes another); or one thing replaces another.
 - #### An emphasis on originality;
 - #### An emphasis on individual genius (often working in isolation)
-- #### #### Inspiration (rather than influence, learning, and collective ideas)
+- #### Inspiration (rather than influence, learning, and collective ideas)
 - #### Artistic interiority (working from “within” rather than the influence of culture)
 - #### Art cannot be taught, or learned
 - #### A belief that art reveals (eternal) truth
