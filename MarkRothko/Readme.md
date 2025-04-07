@@ -72,7 +72,7 @@ No. 14, 1960
 
 The Rothko Chapel (Houston, 1971) — A sacred, meditative space filled with large dark purple and black paintings.
 
-### Can pure color and minimal form truly resonate with everyone?
+### Q: Can pure color and minimal form truly resonate with everyone?
 - Emotion through atmosphere: Many people report crying in front of Rothko’s paintings—not because they understand them, but because they feel something profound.
 - Universality: Without symbols or stories, his works speak in a kind of emotional language beyond culture and language.
 - Space for projection: Viewers can bring their own memories, moods, and silence into the experience.
