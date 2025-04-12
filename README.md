@@ -1,5 +1,6 @@
 # Modernisms & Contemporary Art
-## European modernism: After 1860s
+<details>
+  <summary>European modernism: After 1860s</summary>
 - Industrialization:
 - First Industrial Revolution: 1760s
 - Second Industrial Revolution: 1850s
@@ -12,6 +13,8 @@
     - invention of paint tubes (1841);
     - Scientific inventions and changing ideas;
     - The spread of secular thought;
+</details>
+
 ### Let’s reconsider the formation of ‘European modernism’ in relation to and as extractive from its colonies:
 - Industrialization:
     -  Wealth developed from slavery;
@@ -62,7 +65,7 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 - Found materials, collage, assemblage (Paris, Germany) and the Readymade (New York)
 - Abstract Expressionism (New York), 1940s – 1950s
 ### Modernist ideas
-- #### <span style="color:blue"> Art should be physically and emotionally experienced; it shouldn’t convey information or be narrative in the sense of telling the viewer something.</span>
+- #### Art should be physically and emotionally experienced; it shouldn’t convey information or be narrative in the sense of telling the viewer something.
 - #### An emphasis on progress and linear development (one thing leads to or causes another); or one thing replaces another.
 - #### An emphasis on originality;
 - #### An emphasis on individual genius (often working in isolation)
