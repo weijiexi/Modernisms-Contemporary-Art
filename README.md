@@ -74,7 +74,7 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 </details>
 
 <details>
-    <summary><h4>Modernist ideas</h4></summary>
+    <summary><h3>Modernist ideas</h3></summary>
 
 - #### Art should be physically and emotionally experienced; it shouldn’t convey information or be narrative in the sense of telling the viewer something.
 - #### An emphasis on progress and linear development (one thing leads to or causes another); or one thing replaces another.
