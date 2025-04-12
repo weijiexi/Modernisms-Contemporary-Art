@@ -172,62 +172,91 @@ National Liberation Front, and the Vietnamese National Liberation Front.
     - 🔹 Modern Influence: Used in UI design, branding, and generative digital art.
 </details>
 
-- #### Abstract Expressionism
-    - Large, dynamic brushstrokes and emotional intensity
-    - Spontaneous and gestural techniques
-    - Often conveys the artist’s subconscious or raw emotion
-        - Action Painting – Jackson Pollock (drip technique), Franz Kline
-        - Color Field Painting – Mark Rothko (large color fields), Barnett Newman
-        - Gestural Abstraction – Willem de Koonings
-    - 🔹 Modern Influence: Seen in AI-generated expressive art & motion design.
-- #### Lyrical Abstraction
-    - Expressive, free-flowing compositions
-    - Less geometric, more organic and poetic
-    - Often inspired by music, poetry, and emotion
-        - Wassily Kandinsky – Improvisation Series (linked sound & color)
-        - Joan Miró – Dreamlike, playful abstraction
-        - Hans Hartung – Gestural, energetic brushstrokes
-    - 🔹 Modern Influence: Found in psychedelic digital art, animated visuals, and AI art tools.
-- #### Hard-Edge Abstraction
-    - Sharp, clean edges, with distinct color fields
-    - Often uses color contrast and flat surfaces
-    - Avoids expressive brushwork
-        - Ellsworth Kelly – Minimalist color blocks
-        - Frank Stella – Precise geometric forms
-        - Josef Albers – Homage to the Square (color interaction studies)
-    - 🔹 Modern Influence: Found in graphic design, flat UI, and contemporary murals.
-- #### Color Field Painting 
-    - Large areas of flat, expressive color
-    - Meant to evoke emotion rather than depict objects
-    - Focuses on color relationships and psychological effects
-        - Mark Rothko – Floating rectangular forms of color
-        - Barnett Newman – “Zips” (thin color stripes in vast fields)
-        - Clyfford Still – Thick, irregular color fields
-    - 🔹 Modern Influence: Used in contemporary art installations, UI gradients, and immersive VR experiences.    
-- #### Op Art (Optical Abstraction)
-    - Uses patterns, lines, and contrast to create optical illusions
-    - Dynamic, kinetic, and visually stimulating
-    - Relies on the viewer’s perception
-        - Bridget Riley – Black & white optical illusions
-        - Victor Vasarely – Geometric color-based illusions
-        - Jesús Rafael Soto – Interactive, kinetic abstraction
-    - 🔹 Modern Influence: Found in motion graphics, digital installations, and Web3 generative art.
-- #### Biomorphic Abstraction
-    - Inspired by natural forms, biology, and organic shapes
-    - Soft, fluid, and sometimes surreal
-    - Often dreamlike or spiritual
-        - Jean Arp – Smooth, flowing organic forms
-        - Henry Moore – Abstract, curvilinear sculptures
-        - Yves Tanguy – Surrealist-inspired biomorphic abstraction
-    - 🔹 Modern Influence: Seen in generative 3D art, AI morphing visuals, and bio-design concepts.
-- #### Digital & AI-Generated Abstraction
-    - Uses algorithms, neural networks, and generative systems
-    - Can be interactive, data-driven, or self-evolving
-    - Often inspired by mathematical structures, nature, and randomness
-        - Refik Anadol – AI-driven abstract landscapes
-        - Mario Klingemann (Quasimondo) – GAN-based art
-        - Tyler Hobbs (Fidenza, Art Blocks) – NFT generative abstraction
-    - 🔹 Modern Influence: Seen in NFTs, immersive installations, and AI-assisted painting tools.
+<details>
+    <summary>Abstract Expressionism</summary>
+
+- Large, dynamic brushstrokes and emotional intensity
+- Spontaneous and gestural techniques
+- Often conveys the artist’s subconscious or raw emotion
+    - Action Painting – Jackson Pollock (drip technique), Franz Kline
+    - Color Field Painting – Mark Rothko (large color fields), Barnett Newman
+    - Gestural Abstraction – Willem de Koonings
+- 🔹 Modern Influence: Seen in AI-generated expressive art & motion design.
+</details>
+
+<details>
+    <summary>Lyrical Abstraction</summary>
+
+ - Expressive, free-flowing compositions
+ - Less geometric, more organic and poetic
+ - Often inspired by music, poetry, and emotion
+    - Wassily Kandinsky – Improvisation Series (linked sound & color)
+    - Joan Miró – Dreamlike, playful abstraction
+    - Hans Hartung – Gestural, energetic brushstrokes
+- 🔹 Modern Influence: Found in psychedelic digital art, animated visuals, and AI art tools.
+</details>
+
+<details>
+    <summary>Hard-Edge Abstraction</summary>
+
+ - Sharp, clean edges, with distinct color fields
+ - Often uses color contrast and flat surfaces
+ - Avoids expressive brushwork
+     - Ellsworth Kelly – Minimalist color blocks
+     - Frank Stella – Precise geometric forms
+     - Josef Albers – Homage to the Square (color interaction studies)
+ - 🔹 Modern Influence: Found in graphic design, flat UI, and contemporary murals.
+</details> 
+
+<details>
+    <summary>Color Field Painting</summary> 
+
+  - Large areas of flat, expressive color
+  - Meant to evoke emotion rather than depict objects
+  - Focuses on color relationships and psychological effects
+      - Mark Rothko – Floating rectangular forms of color
+      - Barnett Newman – “Zips” (thin color stripes in vast fields)
+      - Clyfford Still – Thick, irregular color fields
+  - 🔹 Modern Influence: Used in contemporary art installations, UI gradients, and immersive VR experiences. 
+</details> 
+
+<details>
+    <summary> Op Art (Optical Abstraction)</summary>
+
+  - Uses patterns, lines, and contrast to create optical illusions
+  - Dynamic, kinetic, and visually stimulating
+  - Relies on the viewer’s perception
+      - Bridget Riley – Black & white optical illusions
+      - Victor Vasarely – Geometric color-based illusions
+      - Jesús Rafael Soto – Interactive, kinetic abstraction
+  - 🔹 Modern Influence: Found in motion graphics, digital installations, and Web3 generative art.
+
+</details>
+
+<details>
+    <summary> Biomorphic Abstraction  </summary>
+
+  - Inspired by natural forms, biology, and organic shapes
+  - Soft, fluid, and sometimes surreal
+  - Often dreamlike or spiritual
+      - Jean Arp – Smooth, flowing organic forms
+      - Henry Moore – Abstract, curvilinear sculptures
+      - Yves Tanguy – Surrealist-inspired biomorphic abstraction
+  - 🔹 Modern Influence: Seen in generative 3D art, AI morphing visuals, and bio-design concepts.
+</details>
+
+<details>
+    <summary> Digital & AI-Generated Abstraction </summary>
+
+  - Uses algorithms, neural networks, and generative systems
+  - Can be interactive, data-driven, or self-evolving
+  - Often inspired by mathematical structures, nature, and randomness
+      - Refik Anadol – AI-driven abstract landscapes
+      - Mario Klingemann (Quasimondo) – GAN-based art
+      - Tyler Hobbs (Fidenza, Art Blocks) – NFT generative abstraction
+  - 🔹 Modern Influence: Seen in NFTs, immersive installations, and AI-assisted painting tools.
+</details>
+
 #### Abstract Art Today: Where It’s Heading
 - NFT & Web3 Art – Digital artists use blockchain & AI to create interactive abstract works.
 - Motion & Interactive Abstraction – Found in AR/VR art, generative animations, and immersive exhibitions.
