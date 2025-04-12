@@ -1,7 +1,7 @@
 # Modernisms & Contemporary Art
 <details>
   <summary>European modernism: After 1860s</summary>
-  
+
 - Industrialization:
 - First Industrial Revolution: 1760s
 - Second Industrial Revolution: 1850s
@@ -16,7 +16,9 @@
     - The spread of secular thought;
 </details>
 
-### Let’s reconsider the formation of ‘European modernism’ in relation to and as extractive from its colonies:
+<details>
+    <summary>Let’s reconsider the formation of ‘European modernism’ in relation to and as extractive from its colonies:</summary>
+    
 - Industrialization:
     -  Wealth developed from slavery;
     -  Wealth developed from raw materials from colonies;
@@ -30,6 +32,8 @@
     -  Wider patronage of the arts, museums and salons to display art to the public;
     -  Artists traveling to different colonized countries (Gauguin, Pechstein, Matisse, ...)
     -  Artists gaining access to artefacts from around the world (Rousseau, Picasso...)
+</details>
+
 ### Societal changes create different social ideas, understandings, and desires:
 - The rise of the middle classes (the bourgeoisie);
 - theories of social relations through economies:
