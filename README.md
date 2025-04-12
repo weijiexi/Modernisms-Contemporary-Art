@@ -109,7 +109,9 @@ Mass produced, Young (aimed at youth), Witty, Sexy, Gimmicky, Glamorous, Big
 Business.”
 </details>
 
-#### Post WWII:
+<details>
+    <summary>Post WWII:</summary>
+
 - Migration:
    - Political, economic, and war refugees; Jewish diaspora; Artists and
 intellectuals
@@ -127,7 +129,11 @@ intellectuals
    - 2 nd-wave Feminism (1960s to 1980s)
    - 1969, Stonewall, Gay Liberation Front (named in reference to the Algerian
 National Liberation Front, and the Vietnamese National Liberation Front.
-### Modern art movement
+</details>
+
+<details>
+    <summary>Modern art movement</summary>
+
 - Impressionism
 - Expressionism
 - Fauvism
@@ -138,28 +144,34 @@ National Liberation Front, and the Vietnamese National Liberation Front.
 - Suprematism
 - Dadaism
 - Futurism
-
 - Abstraction
+</details>
+
 ### Styles in Abstract Art: Key Movements & Aesthetics
-- #### Geometric Abstraction
-    - Emphasizes geometric shapes (circles, squares, grids)
-    - Focuses on harmony, balance, and structure
-    - Often mathematical, logical, or architectonic
-        - De Stijl (Neoplasticism) – Piet Mondrian, Theo van Doesburg
-        - Suprematism – Kazimir Malevich (e.g., Black Square)
-        - Constructivism – El Lissitzky, Naum Gabo
-        - Minimalism – Frank Stella, Donald Judd
-        - Bauhaus
-            - Early Bauhaus(1919-1925) - Weimar, Germany Walter Gropius
-            - Middle Bauhaus(1925-1932) - Dessau, Germany Hannes Meyer
-            - Late Bauhaus(1932-1933) - Berlin, Germany	Ludwig Mies van der Rohe
-        - Cubism - Pablo Picasso、Georges Braque
-        - Orphism - Robert Delaunay、Sonia Delaunay
-        - Futurism - Umberto Boccioni、Giacomo Balla
-        - Surrealism - Giorgio de Chirico、Salvador Dalí
-        - Contemporary Geometric Art - Felipe Pantone、Refik Anadol
+
+<details>
+    <summary>Geometric Abstraction</summary>
+
+ - Emphasizes geometric shapes (circles, squares, grids)
+ - Focuses on harmony, balance, and structure
+ - Often mathematical, logical, or architectonic
+    - De Stijl (Neoplasticism) – Piet Mondrian, Theo van Doesburg
+    - Suprematism – Kazimir Malevich (e.g., Black Square)
+    - Constructivism – El Lissitzky, Naum Gabo
+    - Minimalism – Frank Stella, Donald Judd
+    - Bauhaus
+        - Early Bauhaus(1919-1925) - Weimar, Germany Walter Gropius
+        - Middle Bauhaus(1925-1932) - Dessau, Germany Hannes Meyer
+        - Late Bauhaus(1932-1933) - Berlin, Germany	Ludwig Mies van der Rohe
+    - Cubism - Pablo Picasso、Georges Braque
+    - Orphism - Robert Delaunay、Sonia Delaunay
+    - Futurism - Umberto Boccioni、Giacomo Balla
+    - Surrealism - Giorgio de Chirico、Salvador Dalí
+    - Contemporary Geometric Art - Felipe Pantone、Refik Anadol
 
     - 🔹 Modern Influence: Used in UI design, branding, and generative digital art.
+</details>
+
 - #### Abstract Expressionism
     - Large, dynamic brushstrokes and emotional intensity
     - Spontaneous and gestural techniques
