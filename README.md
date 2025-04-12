@@ -18,7 +18,7 @@
 
 <details>
     <summary>Let’s reconsider the formation of ‘European modernism’ in relation to and as extractive from its colonies:</summary>
-    
+
 - Industrialization:
     -  Wealth developed from slavery;
     -  Wealth developed from raw materials from colonies;
@@ -34,7 +34,9 @@
     -  Artists gaining access to artefacts from around the world (Rousseau, Picasso...)
 </details>
 
-### Societal changes create different social ideas, understandings, and desires:
+<details>
+    <summary>Societal changes create different social ideas, understandings, and desires:</summary>
+
 - The rise of the middle classes (the bourgeoisie);
 - theories of social relations through economies:
     - Adam Smith (The Wealth of Nations, 1776, capitalism and the division of labor)
@@ -69,6 +71,8 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 - Futurism (Italy), 1909-1918
 - Found materials, collage, assemblage (Paris, Germany) and the Readymade (New York)
 - Abstract Expressionism (New York), 1940s – 1950s
+</details>
+
 ### Modernist ideas
 - #### Art should be physically and emotionally experienced; it shouldn’t convey information or be narrative in the sense of telling the viewer something.
 - #### An emphasis on progress and linear development (one thing leads to or causes another); or one thing replaces another.
