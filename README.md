@@ -73,7 +73,9 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 - Abstract Expressionism (New York), 1940s – 1950s
 </details>
 
-### Modernist ideas
+<details>
+    <summary><h2>Modernist ideas</h2></summary>
+
 - #### Art should be physically and emotionally experienced; it shouldn’t convey information or be narrative in the sense of telling the viewer something.
 - #### An emphasis on progress and linear development (one thing leads to or causes another); or one thing replaces another.
 - #### An emphasis on originality;
@@ -85,7 +87,7 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 - #### Art transcends time
 - #### Art is good for us
 - #### All these ideas get challenged from within modernism itself
-
+</details>
 
 <details>
     <summary>New York Modernism</summary>
