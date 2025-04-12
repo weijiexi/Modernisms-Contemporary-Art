@@ -1,6 +1,7 @@
 # Modernisms & Contemporary Art
 <details>
   <summary>European modernism: After 1860s</summary>
+  
 - Industrialization:
 - First Industrial Revolution: 1760s
 - Second Industrial Revolution: 1850s
