@@ -85,7 +85,10 @@ Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective
 - #### Art transcends time
 - #### Art is good for us
 - #### All these ideas get challenged from within modernism itself
-### New York Modernism
+
+
+<details>
+    <summary>New York Modernism</summary>
 #### D.T. SUZUKI (1870–1966), writes Richard M. Jaffe, was “one of the most culturally influential Asians - In a seven-decade globe-trotting career, Suzuki almost single-handedly introduced Zen to the West while promoting the preservation of Buddhism in Asia.
 - He became the world’s foremost authority on the subject, the most
 identifiable representative of Japanese culture, and even a spokesperson for Asians generally in the Western, white maledominated world of intellectuals.
@@ -102,6 +105,8 @@ by coining the term “Pop Art,” describing it to friends as “Popular (desig
 audience), Transient (short-term solution), Expendable (easily forgotten), Low cost,
 Mass produced, Young (aimed at youth), Witty, Sexy, Gimmicky, Glamorous, Big
 Business.”
+</details>
+
 #### Post WWII:
 - Migration:
    - Political, economic, and war refugees; Jewish diaspora; Artists and
