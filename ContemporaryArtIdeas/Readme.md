@@ -96,6 +96,23 @@
   - [Your Art Disgusts Me: Early Asco 1971-75](https://eastofborneo.org/articles/your-art-disgusts-me-early-asco-1971-75)
   - [LACMA UNFRAMED: ASCO No Movies](https://unframed.lacma.org/2011/11/09/asco%25e2%2580%2599s-no-movies)
   - [LA Times: 1968 East Side Walkouts](https://www.latimes.com/nation/la-na-1968-east-la-walkouts-20180301-htmlstory.html)
+</details>
 
+<details>
+  <summary>Orientalism</summary>
+  
+  The "Now and Elsewhere" reading by Raqs Media Collective covered some media examples that depicted the complicated and complex relationship between orientalism, western hegemony, and capitalism as an exploration of dislocated notions of contemporaneity. An example from the 2000s would be Gwen Stefani's video ["Hollaback GirlLinks."](https://youtu.be/Kgjkth6BRRY) which uses multiple orientalist tropes that dislocate various cultures into a mishmash that reduces them to a backdrop of stylistic tropes. I want to emphasize the importance of looking at what such appropriations and representations suggest and what the underlying narrative is, as it has historical roots. These historical roots are further complicated through relationships of capitalism and media.
+
+  ### Artist Project
+  - ["Virtually Asian" by Bay Area-based artist Astria Suparak](https://astriasuparak.com/2021/02/02/virtually-asian)
+
+  ### Related Readings + Links
+  - [Orientalism in Disney Movies](https://storypower.criticsandbuilders.com/2020/04/14/orientalism-in-disney-movies)
+  - [Anne Anlin Cheng, Ornamentalism, A Feminist Theory for the Yellow Woman.pdf](https://drive.google.com/file/d/1a80zax2zvOQoGKzAgvnvp2LCgiBxh830/view?usp=sharing)
+
+  ### Artist: Morehshin Allahyari
+  - [https://medium.com/digital-art-weekly/in-focus-morehshin-allahyari-807c8b3156c8](https://medium.com/digital-art-weekly/in-focus-morehshin-allahyari-807c8b3156c8)
+  - [21st Century Digital ArtA COLLABORATIVE SURVEY OF DIGITAL ART MADE SINCE 2000](http://www.digiart21.org/)
+  - [Morehshin Allahyari's website](http://www.morehshin.com/material-speculation-isis/)
 
 </details>
