@@ -116,3 +116,15 @@
   - [Morehshin Allahyari's website](http://www.morehshin.com/material-speculation-isis/)
 
 </details>
+
+<details>
+  <summary>Queering Time & Place</summary>
+
+  "In a society that conditions the public to find discomfort or outright fear in the errors and malfunctions of our socio-cultural mechanics—illicitly and implicitly encouraging an ethos of 'Don’t rock the boat!'—a 'glitch' becomes an apt metonym. Glitch Feminism, however, embraces the causality of 'error', and turns the gloomy implication of glitch on its ear by acknowledging that an error in a social system that has already been disturbed by economic, racial, social, sexual, and cultural stratification and the imperialist wrecking-ball of globalization—processes that continue to enact violence on all bodies—may not, in fact, be an error at all, but rather a much-needed erratum. This glitch is a correction to the 'machine', and, in turn, a positive departure."
+  -  [Russell, L. (2012). Digital dualism and the Glitch Feminism Manifesto. The Society Pages, December 10, 2012](https://thesocietypages.org/cyborgology/2012/12/10/digitaldualism-and-the-glitch-feminism-manifesto)
+  - [https://rhizome.org/editorial/2013/mar/12/glitch-body-politic](https://rhizome.org/editorial/2013/mar/12/glitch-body-politic)
+  - [Ain’t I a Womxn?: What Glitch Feminism Can Teach Us Now](https://hyperallergic.com/616359/aint-i-a-womxn-what-glitch-feminism-can-teach-us-now)
+  - [Queer Time: The Alternative to “Adulting](https://daily.jstor.org/queer-time-the-alternative-to-adulting/)
+
+
+</details>
