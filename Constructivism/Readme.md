@@ -119,20 +119,36 @@ Too much Constructivist rigidity might limit playful, soft, or emotion-driven UI
   - Bring design into architecture, theater, film, everyday life
   
   ### Dutch Design (Netherlands, late 20th century → today)
+  Dutch Design is globally respected for its clarity, bold experimentation, and concept-driven approach. 
+  Dutch Design refers to a design philosophy and movement that originated in the Netherlands—especially after the 1990s. It spans across graphic design, product design, architecture, and even digital media.
+
+  - Minimal but Conceptual - Strong focus on idea and concept behind the design—less decoration, more message.
+  - Experimental & Playful - Willing to bend rules—odd typography, asymmetry, unexpected layouts.
+  - Systematic - Deep roots in grid-based design and modularity, often influenced by De Stijl (e.g., Mondrian).
+  - Critical / Social - Dutch designers often question social issues through design—design as commentary.
+  - Flat, Clear, Bold Typography - Often uses Helvetica, Univers, or strong sans-serif typefaces in clever ways.
 - #### Philosophy:
   - Concept-driven: The idea or message is more important than decoration.
   - Strong emphasis on clarity, logic, and innovation.
   - Often playful, ironic, or experimental — even minimalistic.
 - #### Visual Style:
-  - Clean, modular grids
-  - Primary colors (red, yellow, blue) + black/white — influenced by De Stijl
-  - Bold, flat typography (often sans-serif)
+  - Clean, modular grids, Flat colors, geometric shapes
+  - Clean lines with unexpected layering or asymmetry
   - Use of negative space and precise layout
+  - Abstract, structured, and always idea-driven
+  - Bold color fields (red, blue, yellow + black/white) — influenced by De Stijl
+  - Bold, flat typography (often sans-serif)
+  - Typography as form (letters become part of layout rhythm)
   - Focus on visual communication in modern society (posters, books, branding, UI)
 - #### Purpose:
   - Express abstract concepts clearly
   - Innovate in design systems
   - Often connected to social commentary, art, or government identity
+- #### Example Influences
+  - Wim Crouwel - "Gridnik" – strong grid systems, digital-feeling layouts before the digital era
+  - Irma Boom - Experimental book design, uses blank space and visual storytelling
+  - Studio Dumbar - Vibrant visual identities for government and tech (often motion-based)
+  - Droog Design - In product design—reimagining everyday objects with wit and irony
 
 </details>
 
