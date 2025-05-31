@@ -136,17 +136,12 @@ National Liberation Front, and the Vietnamese National Liberation Front.
 <details>
     <summary>Modern art movement</summary>
 
-- Impressionism
-- Expressionism
-- Fauvism
-- Orientalism
-- Primitivism
-- Metaphysical landscapes
-- Surrealism 
-- Suprematism
-- Dadaism
-- Futurism
-- Abstraction
+- [Modern Art Movements: 1870s to 1980s](https://www.theartstory.org/section-movements-timeline.htm)
+
+![timeline](./timeline-arthistory-1.jpg "timeline")
+
+![timeline](./timeline-arthistory-2.jpg "timeline")
+
 </details>
 
 ### Styles in Abstract Art: Key Movements & Aesthetics
